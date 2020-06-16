@@ -1,7 +1,7 @@
 # Answers at the end
 ## Questions
 Lecture Three
-TOTAL POINTS 12
+TOTAL POINTS 12  
 1.Question 1
 What is the total rhythmic duration in crotchets (quarter notes) of the following tied rhythms:
 
