@@ -32,14 +32,14 @@ What is the best explanation of the term 'key' in music?
 
 ## Answers
 
-1.G#
-2.G
-3.G#
-4.6
-5.Gb
-6.G harmonic minor
-7.F# Major/D# Minor
-8. 5 sharp notes
-9.The harmonic minor and melodic minor allow for stronger cadences and more distinctive melodic lines in comparison to the natural minor.
-10.'Key' refers to the way in which we perceive the hierarchy of notes and chords; it specifies the home note and modality also.
+1.G#  
+2.G  
+3.G#  
+4.6  
+5.Gb  
+6.G harmonic minor  
+7.F# Major/D# Minor  
+8. 5 sharp notes  
+9.The harmonic minor and melodic minor allow for stronger cadences and more distinctive melodic lines in comparison to the natural minor.  
+10.'Key' refers to the way in which we perceive the hierarchy of notes and chords; it specifies the home note and modality also.  
 
