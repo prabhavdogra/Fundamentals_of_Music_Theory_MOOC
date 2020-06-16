@@ -1,6 +1,6 @@
-###### Answers at the end ###############
+# Answers at the end
 
-###### Questions ######################
+## Questions
 1.Question 1
 The vertical distance between these two notes can be described as an interval
 What interval is it?
@@ -36,7 +36,7 @@ Which primary chord (tonic, dominant, subdominant) would harmonise this note in 
 Why is it important to write music down? (select all correct answers)
 
 
-###### Answers ###################################
+## Answers
 
 1.  Second
 2.  A sixth and a fifth
