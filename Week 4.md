@@ -2,7 +2,7 @@
 ## Questions
 Lecture Four
 TOTAL POINTS 10  
-1.Question 1  
+1.Question 1
 Which of the following is a half diminished chord?  
 
 2.Question 2
