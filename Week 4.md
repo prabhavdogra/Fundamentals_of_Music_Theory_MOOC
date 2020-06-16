@@ -1,9 +1,9 @@
 # Answers at the end
 ## Questions
 Lecture Four
-TOTAL POINTS 10
-1.Question 1
-Which of the following is a half diminished chord?
+TOTAL POINTS 10  
+1.Question 1  
+Which of the following is a half diminished chord?  
 
 2.Question 2
 How do we describe the quality of the 7th chord built on the supertonic of a major key?
