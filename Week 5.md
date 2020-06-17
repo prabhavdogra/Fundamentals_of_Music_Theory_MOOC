@@ -56,4 +56,5 @@ Choose which of the following help to explain this.
 8.  Interrupted cadence in C-minor  
 9.  D-flat Major  
 10. It is a secondary dominant + It has a chromatically altered note  
-11.
+11. Because C the bass note..  
+    Because there is no perfect cadence in the key of F..  
