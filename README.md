@@ -1,4 +1,4 @@
-# Fundamentals_of_Music_TheoryMOOC
+# Fundamentals_of_Music_Theory_MOOC
 A helping guide for Fundamentals of Music Theory by The University of Edinburgh Coursera MOOC
 
 This isn't meant to help anyone in doing malpractices.  
