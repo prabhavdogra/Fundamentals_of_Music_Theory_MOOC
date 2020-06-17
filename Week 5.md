@@ -46,15 +46,16 @@ Choose which of the following help to explain this.
 
 ## Answers
 
-1.  All except E and G Major  
-2.  2 + 4  
-3.  1  
-4.  One '#' not in 2nd note from bottom not in line  
-5.  The lowest note in Ic would be G + The V7 chord would be G7  
-6.  Imperfect/Half Cadence  
-7.  I,Vb,I,IVb,V  
-8.  Interrupted cadence in C-minor  
-9.  D-flat Major  
-10. It is a secondary dominant + It has a chromatically altered note  
-11. Because C the bass note..  
-    Because there is no perfect cadence in the key of F..  
+1.  All except E and G Major
+2.  2 + 4
+3.  1
+4.  One which has C#, D, F#, A
+5.  The lowest note in Ic would be G + The V7 chord would be G7
+6.  Imperfect/Half Cadence
+7.  I,Vb,I,IVb,V
+8.  Interrupted cadence in C-minor
+9.  D-flat Major
+10. It is a secondary dominant + It has a chromatically altered note 
+11. Because there is no perfect cadence in the key of F.
+    Because of the C bass note running all the way through these last bars.
+
