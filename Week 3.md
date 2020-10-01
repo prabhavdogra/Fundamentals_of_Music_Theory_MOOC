@@ -56,3 +56,4 @@ handwriting music?
 12. The rhythms are spaced so that single longer durations might not take up as much horizontal space as a rhythmically equivalent number of shorter durations, but simultaneously sounding notes will always be vertically aligned.  
 
 
+This is not meant for cheating purpose. Only use if you are genuinely stuck.
