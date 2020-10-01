@@ -43,3 +43,5 @@ What is the best explanation of the term 'key' in music?
 9.The harmonic minor and melodic minor allow for stronger cadences and more distinctive melodic lines in comparison to the natural minor.  
 10.'Key' refers to the way in which we perceive the hierarchy of notes and chords; it specifies the home note and modality also.  
 
+
+This is not meant for cheating purpose. Only use if you are genuinely stuck.
