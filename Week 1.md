@@ -50,3 +50,6 @@ Why is it important to write music down? (select all correct answers)
 10. G,B,D triad 
 11. Because the act oof writing is a tool which enables creation of compllex forms + As a means of recording/remembering + To make sure people play the right notes
 
+
+This is not meant for cheating purpose. Only use if you are genuinely stuck.
+
