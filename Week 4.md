@@ -44,3 +44,6 @@ Which one of the following describes the structure of a diminished seventh chord
 8.  Minor 7th  
 9.  The 3rd of the dominant chord is the leading note of the key and wants to resolve up a semitone AND the 7th of the dominant chord wants to resolve down to the 3rd of the key.  
 10. Root, Minor 3rd, Diminished 5th, Diminished 7th  
+
+
+This is not meant for cheating purpose. Only use if you are genuinely stuck.
